@@ -1,0 +1,6 @@
+.mainContainer {
+  display: flex;
+}
+.innerContainer {
+  flex: 1;
+}
